@@ -1,0 +1,20 @@
+_repo: The-City-That-Was_56633
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Stephen
+    gutenberg_agent_id: '48958'
+    url: http://www.gutenberg.org/2009/agents/48958
+description: ''
+gutenberg_issued: '2018-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The City That Was
+url: http://www.gutenberg.org/ebooks/56633
